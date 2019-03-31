@@ -3252,6 +3252,9 @@ input, select, textarea {
 
 					#banner .inner p {
 						text-align: center;
+						background-color: rgba(52, 27, 43, 0.5);
+						opacity: 0.8;
+						font-weight: 500;
 					}
 
 					#banner .inner br {
