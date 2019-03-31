@@ -2167,7 +2167,7 @@ input, select, textarea {
 		input[type="reset"].fit,
 		button.fit,
 		.button.fit {
-			width: 100%;
+			
 		}
 
 		input[type="button"].small,
