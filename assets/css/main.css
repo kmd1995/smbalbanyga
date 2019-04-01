@@ -1882,6 +1882,7 @@ input, select, textarea {
 	.icon {
 		text-decoration: none;
 		position: relative;
+		list-style-type:none;
 	}
 
 		.icon:before {
