@@ -1,0 +1,128 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>sbmalbanyga.com</title>
+		<link rel="icon" href="images/logo.png" type="image/png">
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="contact is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+					<h1 id="logo"><a>Albany-GA <span>Business</span></a></h1>
+					<nav id="nav">
+						<ul>
+							<li class="current"><a>Vendor Application</a></li>
+							
+							<li><a href="index.html" class="button primary">Home</a></li>
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Main -->
+				<article id="main">
+
+					<header class="special container">
+						<span class="icon fa-envelope"></span>
+						<h2>Vendor Application</h2>
+						
+					</header>
+
+					<!-- One -->
+						<section class="wrapper style4 special container medium">
+
+							<!-- Content -->
+								<div class="content">
+									<form method="POST" action="https://formspree.io/sbmalbanyga@gmail.com">
+										<div class="row gtr-50">
+											<div class="col-6 col-12-mobile">
+												<input type="text" name="name" placeholder="Name" />
+											</div>
+											<div class="col-6 col-12-mobile">
+												<input type="text" name="businessname" placeholder="Business Name" />
+											</div>
+											<div class="col-12">
+												<input type="text" name="address" placeholder="Mailing Address" />
+											</div>
+                      <div class="col-6 col-12-mobile">
+												<input type="text" name="city" placeholder="City" />
+											</div>
+                      <div class="col-6 col-12-mobile">
+												<input type="text" name="state" placeholder="State" />
+											</div>
+                      <div class="col-6 col-12-mobile">
+												<input type="text" name="zip" placeholder="Zip" />
+											</div>
+                      <div class="col-12">
+												<input type="text" name="email" placeholder="Email" />
+											</div>
+                      <div class="col-6 col-12-mobile">
+												<input type="text" name="phone" placeholder="Phone" />
+											</div>
+                      <div class="col-6 col-12-mobile">
+												<input type="text" name="cell" placeholder="Cell" />
+											</div>
+											<div class="col-12">
+												<textarea name="message" placeholder="Message" rows="7"></textarea>
+											</div>
+											<div class="col-12">
+												<ul class="buttons">
+													<li><input type="submit" class="special" value="Send Message" /></li>
+												</ul>
+											</div>
+										</div>
+									</form>
+								</div>
+									<li class="icon fa-home">
+													MARKET SQUARE PLAZA<br />
+													2231 – D DAWSON RD<br />
+													Albany, GA 31707<br />
+													USA
+												</li>
+									<li class="icon fa-phone">
+													(229) 894-0597
+												</li>
+												<li class="icon fa-envelope">
+													sbmalbanyga@gmail.com
+												</li>
+						</section>
+
+				</article>
+
+			<!-- Footer -->
+				<footer id="footer">
+
+					<ul class="icons">
+						<li><a href="#" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon circle fa-google-plus"><span class="label">Google+</span></a></li>
+						<li><a href="#" class="icon circle fa-github"><span class="label">Github</span></a></li>
+						<li><a href="#" class="icon circle fa-dribbble"><span class="label">Dribbble</span></a></li>
+					</ul>
+
+					<ul class="copyright">
+						<li>&copy; 2019 Small Business Marketplace </li><li>Design:kTECH</a></li>
+					</ul>
+
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollgress.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
