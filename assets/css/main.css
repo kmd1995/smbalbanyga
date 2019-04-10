@@ -3541,6 +3541,7 @@ input, select, textarea {
 				font-size: 13pt;
 				letter-spacing: 0.025em;
 				line-height: 1.5em;
+				max-width: 100%;
 			}
 
 		/* Section/Article */
